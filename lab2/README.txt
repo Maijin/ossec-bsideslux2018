@@ -10,11 +10,11 @@ The purpose of this lab is to track suspicious files dropped on the file system.
 
 Recipe
 ------
-To achieve this, we will use an export from a MISP instance and populate the roocheck detection feature.
+To achieve this, we will use an export from a MISP instance and populate the rootcheck detection feature.
 
 Steps
 -----
-1. Let's use my script 'mof.py' ("MISP OSSEC Feeder"). To gain time, a file is already presennt in your /lab2 directory.
+1. Let's use my script 'mof.py' ("MISP OSSEC Feeder"). To gain time, a file is already present in your /lab2 directory.
 
 2. Review the file misp_windows_ioc.txt to learn the format
 
